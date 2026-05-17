@@ -1,4 +1,4 @@
-# garden-design-website
+# Garden-Design-Website
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f4a7b9&height=200&section=header&text=🌿%20The%20Garden%20Shed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Landscaping%20%7C%20Design%20%7C%20Maintenance&descAlignY=55&descSize=18" width="100%"/>

@@ -33,10 +33,10 @@ This was my **first ever website** — built during my **Internet Application De
 ## 🏆 Achievement
 
 <div align="center">
-### Internet Application Development
+**Course** | Internet Application Development |
 ### 🌟 ⭐ 🌟 ⭐ 🌟
 # 🎓 A+
-
+### Internet Application Development
 *Top grade in both the course and the project*
 ### 🌟 ⭐ 🌟 ⭐ 🌟
 

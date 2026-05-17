@@ -31,17 +31,14 @@ This was my **first ever website** — built during my **Internet Application De
 ---
 
 ## 🏆 Achievement
-
 <div align="center">
-
-![Grade](https://img.shields.io/badge/Final%20Grade-A%2B-brightgreen?style=for-the-badge&logo=academia&logoColor=white)
-![Course](https://img.shields.io/badge/Course-Internet%20App%20Development-4A7C59?style=for-the-badge&logo=bookstack&logoColor=white)
-![Project](https://img.shields.io/badge/Project%20Score-A%2B-f4a7b9?style=for-the-badge&logo=star&logoColor=white)
-
-✨ *Earned an A+ in both the course and the project* ✨
+### Internet Application Development
+### 🌟 ⭐ 🌟 ⭐ 🌟
+# 🎓 A+
+*Top grade in both the course and the project*
+### 🌟 ⭐ 🌟 ⭐ 🌟
 
 </div>
-
 ---
 
 ## ✨ Pages & Features

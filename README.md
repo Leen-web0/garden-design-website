@@ -31,14 +31,20 @@ This was my **first ever website** — built during my **Internet Application De
 ---
 
 ## 🏆 Achievement
-<br>
 <div align="center">
-### Internet Application Development
-### 🌟 ⭐ 🌟 ⭐ 🌟
-# 🎓 A+
-*Top grade in both the course and the project*
-### 🌟 ⭐ 🌟 ⭐ 🌟
-<br>
+
+<img src="https://media.giphy.com/media/l0MYyoiQfGTOBxATS/giphy.gif" width="100px"/>
+
+### ✨ Academic Achievement ✨
+
+| | |
+|:---:|:---:|
+| 🎓 **Course** | Internet Application Development |
+| 📊 **Grade** | ![A+](https://img.shields.io/badge/-A%2B-brightgreen?style=flat-square&logoColor=white) |
+| 🏆 **Project Score** | ![A+](https://img.shields.io/badge/-A%2B-f4a7b9?style=flat-square&logoColor=white) |
+
+> *"Hard work + passion = A+"* 🌿
+
 </div>
 
 

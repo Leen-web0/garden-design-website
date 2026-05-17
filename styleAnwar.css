@@ -1,0 +1,203 @@
+header{
+
+    background-color: #3c583e;
+    display: flex;
+    padding:20px;
+    align-items: center;
+    justify-content: space-between;
+  } 
+  
+#list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul{
+    display: flex;
+  }
+  .nav a{
+    background-color:#3C583E  ;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+  }
+  #login{
+    background-color:#C8D2C9  ;
+    color: #000000 ;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 48px;
+    box-shadow:  -5px 5px 12px #ffffff,
+    5px -5px 12px #ffffff;
+    cursor: pointer;
+    
+  }
+
+ * {
+	margin: 0;
+	padding: 0;
+	font-family:"montserrat",sans-serif;
+}
+
+
+h1{
+	color: #F2F2F2;
+}
+
+p{
+	font-family: serif;
+}
+
+.testimonials{
+	padding: 40px 0;
+	 background: #E2CDC4;
+	 color: #3C583E;
+	 text-align: center;
+}
+.inner{
+	max-width: 1200px;
+	margin: auto;
+	overflow: hidden;
+	padding: 0 20px;
+}
+.border{
+	width: 160px;
+	height: 5px;
+	background: #BF8078;
+	margin: 26px auto;
+}
+
+.row{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.col{
+	flex: 33.33%;
+	max-width: 33.33%;
+	box-sizing: border-box;
+	padding: 15px;
+}
+
+.testimonial{
+	background: #fff;
+	padding: 30px;
+}
+
+.testimonial img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+
+.name{
+	font-size: 20px;
+	text-transform: uppercase;
+	margin: 20px 0; 
+}
+
+.stars{
+	color: #bf8078;
+	margin-bottom: 20px;
+}
+
+@media screen and (max-width:960px){
+	.col{
+		flex: 100%;
+		max-width: 80%;
+}
+}
+
+@media screen and (max-width:600px){
+	.col{
+		flex: 100%;
+		max-width: 100%;
+}
+}
+
+
+footer{
+        height: 250px;
+        display: flex;
+        background-color: #3c583e;
+        color: #ffffff;
+        padding:20px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .hind{
+       color: #ffffff;
+        margin-bottom: 10px;
+         margin-right: 50px;
+
+    }
+    .hind a{
+        color: #ffffff;
+        padding-left: 10px;
+        padding-right: 10px;
+
+        text-decoration: none;
+        
+
+    }
+    .social{
+        text-align: center;
+        padding: 20px 30px;
+    }
+    .id{
+        text-align: center;
+        margin-right: 200px;
+    }
+
+    .id p a{
+        color: #ffffff;
+        text-decoration: none;
+    }
+  .end{
+    display: flex;
+  flex-direction: column;
+  
+  }
+   #GG{
+
+      float: left;
+      margin-left: 100px;
+
+}
+#xxx{
+  float: left;
+  margin-left: 100px;
+
+}
+#Q{
+  margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

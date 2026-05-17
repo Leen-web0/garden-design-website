@@ -1,0 +1,128 @@
+    body{
+    	margin: 0;
+    	padding: 0;
+    	background-color: #f2f2f2;]
+    }
+
+    header{
+
+    	background-color: #3c583e;
+    	display: flex;
+    	padding:20px;
+    	align-items: center;
+    	justify-content: space-between;
+    }
+    #list{
+    	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+    }
+    ul{
+    	display: flex;
+    }
+    .nav a{
+    	color: #ffffff;
+    	text-align: center;
+    	padding: 10px 12px;
+    	text-decoration: none;
+    }
+    #login{
+    	padding: 9px 25px;
+    	border: none;
+    	border-radius: 48px;
+    	background: #e2cdc4;
+    	box-shadow:  -5px 5px 12px #ffffff,
+    	5px -5px 12px #ffffff;
+    }
+    .img{
+    	border: 0px solid;
+    	width: 410px;
+    	margin: 10px 2px;
+    	align-items: center;
+    }
+    .s{
+    	margin: 3em;
+    	padding: 4em;
+
+    }
+    .s h2{
+    	color: #bf8079;
+    }
+    .pic{
+    	height: 500px;
+    	margin: 5em 5em;
+
+    }
+    .wa{
+    	display: flex;
+    	justify-content: space-between;
+
+    }
+    #header{
+    	background-color: #e2cdc4;
+    	height: 250px;
+    	text-align-last: center;
+    }
+    #header h1,p,i{
+    	color: #ffffff;
+    	margin: 0px;
+
+    }
+    .s p{
+    	color: #000000;
+    }
+   footer{
+        height: 250px;
+        display: flex;
+        background-color: #3c583e;
+        color: #ffffff;
+        padding:20px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .hind{
+       color: #ffffff;
+        margin-bottom: 10px;
+         margin-right: 50px;
+
+    }
+    .hind a{
+        color: #ffffff;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-decoration: none;
+        
+
+    }
+    .social{
+        text-align: center;
+        padding: 20px 30px;
+    }
+    .id{
+        text-align: center;
+        margin-right: 200px;
+    }
+
+    .id p a{
+        color: #ffffff;
+        text-decoration: none;
+    }
+  .end{
+    display: flex;
+  flex-direction: column;
+  
+  }
+   #GG{
+
+      float: left;
+      margin-left: 100px;
+
+}
+#xxx{
+  float: left;
+  margin-left: 100px;
+
+}
+#Q{
+  margin-left: 50px;
+}

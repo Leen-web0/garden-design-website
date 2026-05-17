@@ -1,0 +1,209 @@
+.so{width:650px;height:620px;
+  border:2px solid white;
+  margin:5% 25%;
+  padding:6% 3%;
+}
+#photo{background-color:#c8d2c9}
+
+body{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+ width: 100%;
+ background-color:f2f2f2}
+
+ header{
+   background-color: #3c583e;
+   display: flex;
+   padding:20px;
+   align-items: center;
+   justify-content: space-between;}
+   #list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul{
+    display: flex;
+  }
+  .nav a{
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+  }
+
+  #login{
+    padding: 9px 25px;
+    border: none;
+    border-radius: 48px;
+    background:#C8D2C9  ;
+    box-shadow:  -5px 5px 12px #ffffff,
+    5px -5px 12px #ffffff;
+  }
+  h1{text-align: center;
+    color:#bf8079;
+    margin:10% 10%;
+    padding:5px;
+    font-family:arial,verdana,geneva}
+  div{margin-top:4%}
+
+  hr{border:3px solid #e2cdc4}
+
+  h6{font-size:16px;
+   text-decoration:underline;
+    color:#3c573e;
+    text-align:left;}
+
+    h5{
+    text-align: center;
+  }
+
+  #th{text-align:center;
+    font-size: 24px;
+    text-shadow:2px 2px #e2cdc4 }
+  h4{color:#3c578e;
+      text-shadow:2px 2px 5px grey;
+      font-size:28px;
+      text-align:center;
+      background-color:#e2cdc4}
+
+  a{color:baby blue;
+      font-size: 18px}
+
+  p{color:#bf8079;
+      font-size: 200%;
+    }
+
+  .tools{width:300px;height:300px;}
+
+  .pa{color:white;
+      text-align:center;
+      background-image:url(flowers.jpeg);
+      background-size:cover;
+      padding: 15px;
+      margin: 20px;
+              }
+
+    h2 span {text-decoration:underline;}
+
+    .one{text-shadow:2px 2px #e2cdc4;
+        text-align:center;}
+
+    .wat{width:900px;height:500px}
+
+    dl{text-align: center;
+        text-shadow:2px 3px #e2cdc4}
+
+    dt{font-size:24px;
+       text-decoration:underline;}
+
+    dd{font-size:20px}
+
+    .fo{width:450px;height:350px;
+        border:3px solid grey;}
+
+    ol{text-align:left;
+        color:black;
+        font-size:24px}
+    #joom{text-align:left;
+          color:black;}
+
+    .spaaj{color:#bf8079;
+          font-size:50px}
+
+    #iwan{color:black}
+
+    .fl{width:700px;height:500px;}
+
+    .dyu{font-size: 30pxpx}
+
+     #ana{font-size:25px}
+
+     .itc{float:right;}
+
+    .zoro{
+         margin-left: 250px;
+          width:60%;
+          height: 500px;
+          left:20%;
+          background-color:#c8d2c9;
+          padding:30px}
+
+      h2{font-size:200%;
+         width:40%;
+         left:20%;
+         background-color:#c8d2c9;
+         padding:10px;
+
+       }
+
+footer{
+        margin: 0 ;
+        height: 250px;
+        display: flex;
+        background-color: #3c583e;
+        color: #ffffff;
+        padding:20px;
+        align-items: center;
+        justify-content: space-between;
+
+    }
+    .hind{
+       color: #ffffff;
+        margin-bottom: 10px;
+         margin-right: 50px;
+
+    }
+    .hind a{
+        color: #ffffff;
+        padding-left: 10px;
+        padding-right: 10px;
+
+        text-decoration: none;
+        
+
+    }
+    .social{
+        text-align: center;
+        padding: 20px 30px;
+    }
+    .id{
+        text-align: center;
+        margin-right: 200px;
+    }
+
+    .id p a{
+        color: #ffffff;
+        text-decoration: none;
+    }
+  .end{
+    display: flex;
+  flex-direction: column;
+  
+  }
+
+    #GG{
+
+      float: left;
+      margin-left: 100px;
+
+}
+#xxx{
+  float: left;
+  margin-left: 130px;
+
+}
+#Q{
+  margin-left: 50px;
+}
+.ppp{
+   margin-left: 250px;
+   white-space: nowrap;
+   } 
+
+.sss{
+  color:#F2F2F2 ;
+  font-size: 20px;
+}
+

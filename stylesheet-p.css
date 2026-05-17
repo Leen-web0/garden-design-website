@@ -1,0 +1,156 @@
+
+
+footer{
+        height: 250px;
+        display: flex;
+        background-color: #3c583e;
+        color: #ffffff;
+        padding:20px;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .hind{
+       color: #ffffff;
+        margin-bottom: 10px;
+         margin-right: 50px;
+
+    }
+    .hind a{
+        color: #ffffff;
+        padding-left: 10px;
+        padding-right: 10px;
+
+        text-decoration: none;
+        
+
+    }
+    .social{
+        text-align: center;
+        padding: 20px 30px;
+    }
+    .id{
+        text-align: center;
+        margin-right: 200px;
+    }
+
+    .id p a{
+        color: #ffffff;
+        text-decoration: none;
+    }
+  .end{
+    display: flex;
+  flex-direction: column;
+  
+  }
+   #GG{
+
+      float: left;
+      margin-left: 100px;
+
+}
+#xxx{
+  float: left;
+  margin-left: 100px;
+
+}
+#Q{
+  margin-left: 50px;
+}
+
+#list{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+	ul{
+		display: flex;
+	}
+	.nav a{
+		color: #ffffff;
+		text-align: center;
+		padding: 10px 12px;
+		text-decoration: none;
+	}
+
+
+#login{
+		padding: 9px 25px;
+		border: none;
+		border-radius: 48px;
+		background:#C8D2C9  ;
+		box-shadow:  -5px 5px 12px #ffffff,
+		5px -5px 12px #ffffff;
+	}
+
+
+
+	body{
+		margin: 0px;
+		padding: 0;
+		background-color: #f2f2f2;
+	}
+
+	header{
+
+		background-color: #3c583e;
+		display: flex;
+		padding:20px;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+table{margin: auto;
+border: 0.2em;
+widows: 300px;
+border-style: solid;
+background-color: #c8d2c9;
+
+align-content: center;}
+
+
+caption{font-family: verdana,"sans-serf";
+font-weight: bold;
+font-size: 1.2em
+padding:0.5em;
+
+color: gray;}
+
+
+
+
+
+    .hind{
+        list-style-type: none;
+    }
+    .hind a{
+        color: #ffffff;
+        padding-left: 10px;
+        padding-right: 10px;
+        text-decoration: none;
+        
+
+    }
+    .social{
+        text-align: center;
+        padding: 20px 30px;
+    }
+    .id{
+        text-align: center;
+    }
+
+    .id p a{
+        color: #ffffff;
+        text-decoration: none;
+    }
+
+h2
+{color: #bf8079;
+text-align: center;}
+
+
+li{font-size: 1.0em;
+font-family: "younb serif";
+text-align: unset;}
+
+
+p{text-align: center;}

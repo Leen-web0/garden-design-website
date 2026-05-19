@@ -102,11 +102,11 @@ This was my **first ever website** — built during my **Internet Application De
 
 | 🌸 | Name | Role |
 |----|------|------|
-| 🌷 | **Leen** | Home · Contact · Garden Pages |
-| 🌿 | **Hind** | Services Page |
-| 🌺 | **Ghadah** | About Us |
+| 🌷 | **Leen** | Home · Contact · Garden Ideas · Thank You Page |
+| 🌿 | **Hind** | Services · Login · Sign Up |
+| 🌺 | **Ghadah** | About Us · Garden Tips & Sub-pages |
 | 🌼 | **Anwar** | Customer Reviews |
-| 🍃 | **Noura** | Policy & Supporting Pages |
+| 🍃 | **Noura** | Privacy Policy |
 
 </div>
 

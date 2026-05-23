@@ -1,36 +1,31 @@
 # Garden-Design-Website
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=f4a7b9&height=200&section=header&text=🌿%20The%20Garden%20Shed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Landscaping%20%7C%20Design%20%7C%20Maintenance&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=🏗️%20Construction%20PM%20System&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Database%20Design%20%7C%20SQL%20%7C%20ER%20Diagram&descAlignY=55&descSize=18" width="100%"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=4A7C59&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=Welcome+to+The+Garden+Shed+🌸;Where+every+garden+tells+a+story+🌱;Designed+with+love+%26+code+💚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4A843&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=Construction+Project+Management+System+🏗️;Designed+with+SQL+%26+Relational+Database+🗄️;Built+with+dedication+%26+earned+an+A%2B+✨)](https://git.io/typing-svg)
 
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-
-## 🌐 Live Demo
-👉 [Visit The Garden Shed](https://leen-web0.github.io/garden-design-website/)
-
----
 </div>
 
 ---
 
-## 🌱 About The Project
+## 🏗️ About The Project
 
-> *"A garden is a love song, a duet between a human being and Mother Nature."*
+> *"Good data architecture is the foundation of every great system."*
 
-**The Garden Shed** is a full landscaping company website built from scratch with pure HTML & CSS. It offers customers everything from garden design inspiration to booking consultations — all wrapped in a warm, nature-inspired experience.
+**Construction Project Management System (CPMS)** is a relational database designed to manage all aspects of a construction company — from employees and projects to factories, resources, contracts, and timelines.
 
-> ⚠️ **Note:** This is a fictional company and website created purely for educational purposes.
+> ⚠️ **Note:** This is a fictional system created purely for educational purposes.
 
-This was my **first ever website** — built during my **Internet Application Development** course at university, and I'm proud of every leaf of it 🍃
+This was my **first ever database project** — designed during my **Database Systems** course at university, and I'm proud of every table and relation in it 🗄️
 
 ---
 
@@ -40,96 +35,109 @@ This was my **first ever website** — built during my **Internet Application De
 
 ### 🌟 ⭐ 🌟 ⭐ 🌟
 # 🎓 A+
-### **Course** Internet Application Development
+### **Course** Database Management Systems
 *Top grade in both the course and the project*
 ### 🌟 ⭐ 🌟 ⭐ 🌟
 
 </div>
 
-## ✨ Pages & Features
+---
 
-| Page | Description |
-|------|-------------|
-| 🏠 **Home** | Hero landing page with company intro & services overview |
-| 🛠️ **Services** | Full list of landscaping services offered |
-| 👩‍🌾 **About Us** | Company story, mission & team profile |
-| 📬 **Contact Us** | Consultation booking form |
-| 🌸 **Garden Ideas** | 12 garden design inspirations with images |
-| 💧 **Watering Tips** | 10 golden rules for plant care |
-| 🌿 **Fertilizer Guide** | Types, forms & how to use fertilizers |
-| 📐 **Plant Spacing** | Calculator guide for trees & flowers |
-| ⭐ **Customer Reviews** | Testimonials from happy clients |
-| 🔒 **Privacy Policy** | Warranty & maintenance policy |
-| 🔑 **Login / Sign Up** | User authentication pages |
-| 💚 **Thank You Page** | Post-consultation confirmation |
+## 🗄️ Database Structure
+
+The database `cpms` consists of **11 tables**:
+
+| Table | Description |
+|-------|-------------|
+| 👷 **employees** | All company staff with their positions and contacts |
+| 📁 **projects** | Construction projects with descriptions and dates |
+| 🏢 **department** | Company departments and contact info |
+| 📋 **task** | Tasks assigned to employees per department |
+| 🏭 **factory** | Factories supplying building materials |
+| 📍 **f_location** | Factory locations across Saudi Arabia |
+| 🪨 **resources** | Building materials linked to factories and projects |
+| 📅 **timeline** | Project timelines with start and end dates |
+| 📝 **reports** | Progress reports linked to timelines |
+| 🤝 **contracts** | Contracts between clients and projects |
+| 👤 **client** | Client information and contacts |
 
 ---
 
-## 🗂️ Project Structure
+## 🔗 Entity Relationships
 
 ```
-🌿 garden-shed-website/
-│
-├── 📄 project_leenX.html        ← Homepage
-├── 📄 hind.html                 ← Services
-├── 📄 about-us.html             ← About Us
-├── 📄 project_leen-contact.html ← Contact
-├── 📄 project-anwarX.html       ← Customer Reviews
-├── 📄 garden.html               ← Garden Care Tips
-├── 📄 garden-idea.html          ← Garden Design Ideas
-├── 📄 Water-properly.html       ← Watering Guide
-├── 📄 far.html                  ← Fertilizer Guide
-├── 📄 spac.html                 ← Plant Spacing
-├── 📄 policyfinel.html          ← Privacy Policy
-├── 📄 login.html                ← Login
-├── 📄 signup.html               ← Sign Up
-├── 📄 thanks-page.html          ← Thank You
-│
-├── 🎨 project_leenX.css         ← Main stylesheet
-├── 🎨 hindstyle.css             ← Services stylesheet
-├── 🎨 ga.css                    ← Garden pages stylesheet
-├── 🎨 styleAnwar.css            ← Reviews stylesheet
-├── 🎨 stylesheetus.css          ← About Us stylesheet
-│
-└── 🖼️ images/                   ← All project images
+employees ──── projects ──── department
+    │               │
+   task          timeline ──── reports
+                    │
+               contracts ──── client
+                    │
+               resources ──── factory ──── f_location
 ```
 
 ---
 
-## 👩‍💻 The Team
+## 🗂️ Project Files
+
+```
+🏗️ construction-pm-database/
+│
+├── 📄 cpms.sql              ← Full database (CREATE + INSERT)
+├── 📊 Construction_PM.pptx  ← Project presentation
+├── 📝 Database-project.docx ← Full project documentation
+├── 📄 Database-project.pdf  ← PDF version of documentation
+└── 📋 README.md             ← You are here!
+```
+
+---
+
+## 🚀 How to Run
+
+```sql
+-- 1. Import the SQL file in phpMyAdmin or MySQL Workbench
+-- 2. Or run via terminal:
+mysql -u root -p < cpms.sql
+
+-- 3. Use the database:
+USE cpms;
+
+-- 4. Check all tables:
+SHOW TABLES;
+```
+
+---
+
+## 👩‍💻 Team
 
 <div align="center">
 
-| 🌸 | Name | Role |
-|----|------|------|
-| 🌷 | **Leen** | Home · Contact · Garden Ideas · Thank You Page |
-| 🌿 | **Hind** | Services · Login · Sign Up |
-| 🌺 | **Ghadah** | About Us · Garden Tips & Sub-pages |
-| 🌼 | **Anwar** | Customer Reviews |
-| 🍃 | **Noura** | Privacy Policy |
+| 🏗️ | Name |
+|----|------|
+| 🌟 | **Leen Daghriri** |
+| 💡 | **Waad Ali Madkhali** |
+| 🔧 | **Rima Amashi** |
+| 📊 | **Karima Musa Mubaraki** |
+| 📋 | **Sarah Maayel Harubi** |
 
 </div>
 
 ---
 
-## 🔗 Connect With Us
+## 🔗 Connect
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/☆_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/garden_shed.0)
-[![Twitter](https://img.shields.io/badge/☆_Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/g0298466155)
-[![Email](https://img.shields.io/badge/☆_Email-4A7C59?style=flat-square&logo=gmail&logoColor=white)](mailto:Gardenshed@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/☆_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leen-dighriri-)
+[![Email](https://img.shields.io/badge/☆_Email-c71585?style=flat-square&logo=gmail&logoColor=white)](mailto:leenad987987333@gmail.com)
 
 </div>
 
 ---
 
-> 🌿 *From our team to your screen — built with passion, planted with pride.*
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4A7C59&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=twinkling" width="100%"/>
 
-*Made with 💚 by The Garden Shed Team · 2023*
+*Made with 🏗️ by The CPMS Team · 2024*
 
 </div>

@@ -2,8 +2,7 @@
 <div align="center"> 
     
 
-<img src="https://media.giphy.com/media/xT9IgG50Lg7rusQ3QQ/giphy.gif" width="70%" alt="garden animation"/>
-</div>
+
 <br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=4A7C59&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=Welcome+to+The+Garden+Shed+🌸;Where+every+garden+tells+a+story+🌱;Designed+with+love+%26+code+💚)](https://git.io/typing-svg)

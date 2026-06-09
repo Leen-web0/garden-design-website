@@ -1,143 +1,82 @@
-# Garden-Design-Website
+# 🌿 The Garden — Landscaping & Design Website
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=220&section=header&text=🏗️%20Construction%20PM%20System&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Database%20Design%20%7C%20SQL%20%7C%20ER%20Diagram&descAlignY=55&descSize=18" width="100%"/>
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://leen-web0.github.io/garden-design-website/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-<br>
+> 🎓 3rd Year University Project | Jazan University | 2023
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=D4A843&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=110&lines=Construction+Project+Management+System+🏗️;Designed+with+SQL+%26+Relational+Database+🗄️;Built+with+dedication+%26+earned+an+A%2B+✨)](https://git.io/typing-svg)
-
-<br>
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+**[🚀 Click here to view the live website →](https://leen-web0.github.io/garden-design-website/)**
 
 </div>
 
 ---
 
-## 🏗️ About The Project
+## 🌱 About The Project
 
-> *"Good data architecture is the foundation of every great system."*
+**The Garden** is a multi-page website for a fictional landscaping and garden design company. Built using pure HTML & CSS as part of a Web Design university course.
 
-**Construction Project Management System (CPMS)** is a relational database designed to manage all aspects of a construction company — from employees and projects to factories, resources, contracts, and timelines.
-
-> ⚠️ **Note:** This is a fictional system created purely for educational purposes.
-
-This was my **first ever database project** — designed during my **Database Systems** course at university, and I'm proud of every table and relation in it 🗄️
+> ⚠️ **Note:** This is a fictional company created purely for educational purposes.
 
 ---
 
-## 🏆 Achievement
+## 🗂️ Pages
 
-<div align="center">
-
-### 🌟 ⭐ 🌟 ⭐ 🌟
-# 🎓 A+
-### **Course** Database Management Systems
-*Top grade in both the course and the project*
-### 🌟 ⭐ 🌟 ⭐ 🌟
-
-</div>
-
----
-
-## 🗄️ Database Structure
-
-The database `cpms` consists of **11 tables**:
-
-| Table | Description |
-|-------|-------------|
-| 👷 **employees** | All company staff with their positions and contacts |
-| 📁 **projects** | Construction projects with descriptions and dates |
-| 🏢 **department** | Company departments and contact info |
-| 📋 **task** | Tasks assigned to employees per department |
-| 🏭 **factory** | Factories supplying building materials |
-| 📍 **f_location** | Factory locations across Saudi Arabia |
-| 🪨 **resources** | Building materials linked to factories and projects |
-| 📅 **timeline** | Project timelines with start and end dates |
-| 📝 **reports** | Progress reports linked to timelines |
-| 🤝 **contracts** | Contracts between clients and projects |
-| 👤 **client** | Client information and contacts |
+| Page | Description |
+|------|-------------|
+| 🏠 `index.html` | Home / Landing page |
+| 🌿 `garden.html` | Garden designs showcase |
+| 💡 `garden-idea.html` | Garden ideas & inspiration |
+| 💧 `Water-properly.html` | Watering tips & guides |
+| 🌍 `far.html` | Outdoor spaces |
+| 👤 `about-us.html` | About the company |
+| 📞 `project_leen-contact.html` | Contact page |
+| 🔐 `login.html` | Login page |
+| 📝 `signup.html` | Sign up page |
+| 📋 `policyfinel.html` | Privacy policy |
+| 🙏 `thanks-page.html` | Thank you page |
 
 ---
 
-## 🔗 Entity Relationships
+## 🛠️ Tech Stack
 
-```
-employees ──── projects ──── department
-    │               │
-   task          timeline ──── reports
-                    │
-               contracts ──── client
-                    │
-               resources ──── factory ──── f_location
-```
-
----
-
-## 🗂️ Project Files
-
-```
-🏗️ construction-pm-database/
-│
-├── 📄 cpms.sql              ← Full database (CREATE + INSERT)
-├── 📊 Construction_PM.pptx  ← Project presentation
-├── 📝 Database-project.docx ← Full project documentation
-├── 📄 Database-project.pdf  ← PDF version of documentation
-└── 📋 README.md             ← You are here!
-```
+| Layer | Technology |
+|-------|-----------|
+| Markup | HTML5 |
+| Styling | CSS3 |
+| Hosting | GitHub Pages |
 
 ---
 
 ## 🚀 How to Run
 
-```sql
--- 1. Import the SQL file in phpMyAdmin or MySQL Workbench
--- 2. Or run via terminal:
-mysql -u root -p < cpms.sql
+```bash
+# Option 1: Open directly
+open index.html
 
--- 3. Use the database:
-USE cpms;
-
--- 4. Check all tables:
-SHOW TABLES;
+# Option 2: Visit the live site
+https://leen-web0.github.io/garden-design-website/
 ```
 
 ---
 
 ## 👩‍💻 Team
 
-<div align="center">
-
-| 🏗️ | Name |
-|----|------|
+| | Name |
+|---|---|
 | 🌟 | **Leen Daghriri** |
-| 💡 | **Waad Ali Madkhali** |
-| 🔧 | **Rima Amashi** |
-| 📊 | **Karima Musa Mubaraki** |
-| 📋 | **Sarah Maayel Harubi** |
-
-</div>
+| 💡 | **Anwar** |
+| 🌿 | **Hind** |
 
 ---
 
 ## 🔗 Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/☆_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leen-dighriri-)
-[![Email](https://img.shields.io/badge/☆_Email-c71585?style=flat-square&logo=gmail&logoColor=white)](mailto:leenad987987333@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leen-dighriri-)
+[![Email](https://img.shields.io/badge/✦_Email-c71585?style=flat-square&logo=gmail&logoColor=white)](mailto:leenad987987333@gmail.com)
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer&animation=twinkling" width="100%"/>
-
-*Made with 🏗️ by The CPMS Team · 2024*
-
-</div>
+*Made with 🌿 by The Garden Team · 2023*

@@ -1,14 +1,17 @@
-# 🌿 The Garden — Landscaping & Design Website
-
+# garden-design-website
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Site-2ea44f?style=for-the-badge)](https://leen-web0.github.io/garden-design-website/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f4a7b9&height=200&section=header&text=🌿%20The%20Garden%20Shed&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Landscaping%20%7C%20Design%20%7C%20Maintenance&descAlignY=55&descSize=18" width="100%"/>
 
-> 🎓 3rd Year University Project | Jazan University | 2023
+<br>
 
-**[🚀 Click here to view the live website →](https://leen-web0.github.io/garden-design-website/)**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=4A7C59&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=110&lines=Welcome+to+The+Garden+Shed+🌸;Where+every+garden+tells+a+story+🌱;Designed+with+love+%26+code+💚)](https://git.io/typing-svg)
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -16,67 +19,113 @@
 
 ## 🌱 About The Project
 
-**The Garden** is a multi-page website for a fictional landscaping and garden design company. Built using pure HTML & CSS as part of a Web Design university course.
+> *"A garden is a love song, a duet between a human being and Mother Nature."*
 
-> ⚠️ **Note:** This is a fictional company created purely for educational purposes.
+**The Garden Shed** is a full landscaping company website built from scratch with pure HTML & CSS. It offers customers everything from garden design inspiration to booking consultations — all wrapped in a warm, nature-inspired experience.
+
+> ⚠️ **Note:** This is a fictional company and website created purely for educational purposes.
+
+This was my **first ever website** — built during my **Internet Application Development** course at university, and I'm proud of every leaf of it 🍃
 
 ---
 
-## 🗂️ Pages
+## 🏆 Achievement
+
+<div align="center">
+
+### 🌟 ⭐ 🌟 ⭐ 🌟
+# 🎓 A+
+### **Course** Internet Application Development
+*Top grade in both the course and the project*
+### 🌟 ⭐ 🌟 ⭐ 🌟
+
+</div>
+
+## ✨ Pages & Features
 
 | Page | Description |
 |------|-------------|
-| 🏠 `index.html` | Home / Landing page |
-| 🌿 `garden.html` | Garden designs showcase |
-| 💡 `garden-idea.html` | Garden ideas & inspiration |
-| 💧 `Water-properly.html` | Watering tips & guides |
-| 🌍 `far.html` | Outdoor spaces |
-| 👤 `about-us.html` | About the company |
-| 📞 `project_leen-contact.html` | Contact page |
-| 🔐 `login.html` | Login page |
-| 📝 `signup.html` | Sign up page |
-| 📋 `policyfinel.html` | Privacy policy |
-| 🙏 `thanks-page.html` | Thank you page |
+| 🏠 **Home** | Hero landing page with company intro & services overview |
+| 🛠️ **Services** | Full list of landscaping services offered |
+| 👩‍🌾 **About Us** | Company story, mission & team profile |
+| 📬 **Contact Us** | Consultation booking form |
+| 🌸 **Garden Ideas** | 12 garden design inspirations with images |
+| 💧 **Watering Tips** | 10 golden rules for plant care |
+| 🌿 **Fertilizer Guide** | Types, forms & how to use fertilizers |
+| 📐 **Plant Spacing** | Calculator guide for trees & flowers |
+| ⭐ **Customer Reviews** | Testimonials from happy clients |
+| 🔒 **Privacy Policy** | Warranty & maintenance policy |
+| 🔑 **Login / Sign Up** | User authentication pages |
+| 💚 **Thank You Page** | Post-consultation confirmation |
 
 ---
 
-## 🛠️ Tech Stack
+## 🗂️ Project Structure
 
-| Layer | Technology |
-|-------|-----------|
-| Markup | HTML5 |
-| Styling | CSS3 |
-| Hosting | GitHub Pages |
-
----
-
-## 🚀 How to Run
-
-```bash
-# Option 1: Open directly
-open index.html
-
-# Option 2: Visit the live site
-https://leen-web0.github.io/garden-design-website/
+```
+🌿 garden-shed-website/
+│
+├── 📄 project_leenX.html        ← Homepage
+├── 📄 hind.html                 ← Services
+├── 📄 about-us.html             ← About Us
+├── 📄 project_leen-contact.html ← Contact
+├── 📄 project-anwarX.html       ← Customer Reviews
+├── 📄 garden.html               ← Garden Care Tips
+├── 📄 garden-idea.html          ← Garden Design Ideas
+├── 📄 Water-properly.html       ← Watering Guide
+├── 📄 far.html                  ← Fertilizer Guide
+├── 📄 spac.html                 ← Plant Spacing
+├── 📄 policyfinel.html          ← Privacy Policy
+├── 📄 login.html                ← Login
+├── 📄 signup.html               ← Sign Up
+├── 📄 thanks-page.html          ← Thank You
+│
+├── 🎨 project_leenX.css         ← Main stylesheet
+├── 🎨 hindstyle.css             ← Services stylesheet
+├── 🎨 ga.css                    ← Garden pages stylesheet
+├── 🎨 styleAnwar.css            ← Reviews stylesheet
+├── 🎨 stylesheetus.css          ← About Us stylesheet
+│
+└── 🖼️ images/                   ← All project images
 ```
 
 ---
 
-## 👩‍💻 Team
+## 👩‍💻 The Team
 
-| | Name |
-|---|---|
-| 🌟 | **Leen Daghriri** |
-| 💡 | **Anwar** |
-| 🌿 | **Hind** |
+<div align="center">
+
+| 🌸 | Name | Role |
+|----|------|------|
+| 🌷 | **Leen** | Home · Contact · Garden Pages |
+| 🌿 | **Hind** | Services Page |
+| 🌺 | **Ghadah** | About Us |
+| 🌼 | **Anwar** | Customer Reviews |
+| 🍃 | **Noura** | Policy & Supporting Pages |
+
+</div>
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect With Us
 
-[![LinkedIn](https://img.shields.io/badge/✦_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leen-dighriri-)
-[![Email](https://img.shields.io/badge/✦_Email-c71585?style=flat-square&logo=gmail&logoColor=white)](mailto:leenad987987333@gmail.com)
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/☆_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/garden_shed.0)
+[![Twitter](https://img.shields.io/badge/☆_Twitter%2FX-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/g0298466155)
+[![Email](https://img.shields.io/badge/☆_Email-4A7C59?style=flat-square&logo=gmail&logoColor=white)](mailto:Gardenshed@gmail.com)
+
+</div>
 
 ---
 
-*Made with 🌿 by The Garden Team · 2023*
+> 🌿 *From our team to your screen — built with passion, planted with pride.*
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A7C59&height=100&section=footer&animation=twinkling" width="100%"/>
+
+*Made with 💚 by The Garden Shed Team · 2023*
+
+</div>
+    

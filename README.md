@@ -2,10 +2,9 @@
 <div align="center"> 
 
 <div align="center">
-<img src="https://media1.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="60%" alt="garden"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="70%"/>
 </div>
 
-</div>    
 <div align="center"> 
 
 <br>

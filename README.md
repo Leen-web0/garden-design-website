@@ -2,8 +2,9 @@
 <div align="center"> 
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="70%"/>
-</div>    
 
+</div>    
+<div align="center"> 
 
 <br>
 

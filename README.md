@@ -1,6 +1,5 @@
+# Garden-Design-Website
 <div align="center"> 
-# garden-design-website
-
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="70%"/>

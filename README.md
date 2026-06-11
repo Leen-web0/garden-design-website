@@ -22,7 +22,7 @@
 ---
 ## 🌐 Live Demo
 
-**[🚀 Click here to view the live website →](https://leen-web0.github.io/MDARIK-University-Volunteering-Events-Platform/)**
+**[🚀 Click here to view the live website →](https://leen-web0.github.io/garden-design-website/project_leenX.html)**
 <br>
 in any browser — no server required.
 

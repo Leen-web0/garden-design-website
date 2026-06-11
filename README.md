@@ -20,7 +20,13 @@
 </div>
 
 ---
+## 🌐 Live Demo
 
+**[🚀 Click here to view the live website →](https://leen-web0.github.io/MDARIK-University-Volunteering-Events-Platform/)**
+<br>
+in any browser — no server required.
+
+---
 ## 🌱 About The Project
 
 > *"A garden is a love song, a duet between a human being and Mother Nature."*
